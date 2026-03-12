@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SBT Interior SP" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/f93bc057-5264-42a9-9f4d-6de4fb930f36.png" group-title="TV Aberta",SBT Interior SP
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Record.br@SD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="TV Aberta",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -28,3 +30,95 @@ http://wz3.dnip.com.br/novaeratv/novaeratv.sdp/live.m3u8
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="Brasil: variedades",Record | TV Conquista | MT Brasil
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+#EXTINF:-1,
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1, SBT TV Guajará (PA)
+#EXTINF:-1, RecordTV MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1, RecordTV MT 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1, RecordTV MT 3
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
+#EXTINF:-1,Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1, Band - TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1, RedeTV! TV PR
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1, RedeTV! TV Pantanal (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1,PlayTV
+https://isaocorp.cloudecast.com/playtv/mono.m3u8
+#EXTINF:-1, Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1, Poop TV
+https://stream.ichibantv.com:3522/hybrid/play.m3u8
+#EXTINF:-1, TV Brasil  Web
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1, Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1, Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1, Canal Libras
+https://canallibras-stream.ebc.com.br/index.m3u8
+#EXTINF:-1, Brasil Oeste (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1,TV Cultura - TV Guará (MA)
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
+#EXTINF:-1, TV Cultura - TV Futuro (RJ)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1, Cultura Pará
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1, Pet Lovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1,Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1,GuiaTV
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+#EXTINF:-1, Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1, Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1, TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1, 1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1,MAIS UM
+https://stream.ichibantv.com:3230/hybrid/play.m3u8
+#EXTINF:-1, Capital TV
+https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1, M2O
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1, Music Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1, Rede Brasil - TV Marajoara (PA)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1,TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1, Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1, IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1,Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1,KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1,Central TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:-1, Mais Família
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+#EXTINF:-1, FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+#EXTINF:-1,TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1,TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1, Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+#EXTINF:-1, Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+
+
